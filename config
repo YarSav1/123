@@ -1,5 +1,5 @@
-TOKEN = "NzM3MjYwODIyNjY0OTcwMjYx.Xx6xpQ.MxDIJbMTFPL4qScZ68Vwt7zopco"
-ID = 737260822664970261
+TOKEN = ""
+ID = 
 
 if __name__ == '__main__':
     p1 = Process(target=)
